@@ -6,3 +6,10 @@ dist-ssr
 /dist*
 *-lock.*
 pnpm-debug
+.idea/modules.xml
+.idea/prettier.xml
+.idea/vcs.xml
+.idea/vue-element-plus-admin.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/jsLinters/eslint.xml
+.idea/.gitignore
